@@ -1,0 +1,29 @@
+collections:
+  current:
+    output: true
+  past:
+    output: true
+    sort_by: issue
+collections_dir: issues
+
+defaults:
+  - scope:
+      path: ""
+      type: "past"
+    values:
+      layout: "poem"
+  - scope:
+      path: ""
+      type: "current"
+    values:
+      layout: "poem"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - secret/
+  - sitemap-gen.fish
+  - attachments/
+  - poems/
