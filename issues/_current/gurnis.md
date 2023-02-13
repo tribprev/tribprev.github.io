@@ -77,7 +77,8 @@ At its best, advertising turns "those who like to watch" into heroes
 who can't wait to jump out of their clothes into bed.
 
 
-## 2.
+---
+{: .newpoem}
 
 In the photograph
 
@@ -141,7 +142,8 @@ It was rapping at her chamber door.
 This and nothing more.
 
 
-## 3.
+---
+{: .newpoem}
 
 Adorno was born on September 11th.
 
