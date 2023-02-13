@@ -1,5 +1,5 @@
 ---
-title: 'six poems from *antagonisms in the aether*'
+title: 'from *antagonisms in the aether*'
 contributor: Avery Burns
 ---
 
