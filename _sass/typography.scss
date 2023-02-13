@@ -52,7 +52,7 @@ li {
 
 article hr {
     border: none;
-    margin: 1rem 0;
+    margin: .75rem 0;
 }
 
 .prose p {
@@ -74,4 +74,8 @@ article hr {
 .thinprose {
     margin: 0 0 1rem 0;
     max-width: 600px;
+}
+
+.nolinebreak {
+    margin-top: -1.15rem;
 }
