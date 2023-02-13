@@ -77,8 +77,8 @@ itself,</p>
 <p>Salt water has a smell and then you taste it</p>
 <p>turning tide into color and kindness.</p>
 <p>Throw these findings into a saucepan.</p>
-<h2 id="sound-replacement-poem-randy-prunty">Sound replacement poem
-Randy Prunty</h2>
+<h2 id="sound-replacement-poem">Sound replacement
+</h2>
 <p>Pretend I'm me, a false positive result of "everything happens for a
 reason."</p>
 <p>Pretend I'm me, a false positive result of "everything happens for a
