@@ -5,23 +5,24 @@ contributor: Jamie Townsend
 
 <style>
 .indent1 {
-    text-indent: 3rem;
+    text-indent: 1rem;
 }
 
 .indent2 {
-    text-indent: 2rem;
+    text-indent: 3rem;
 }
 
-.nolinebreak {
-    margin-top: -1.15rem;
-}
 </style>
 
 So, safe
 
 ---
 
-I came in
+Or save
+
+---
+
+Loo came in
 
 ---
 
@@ -37,11 +38,11 @@ Said so cute
 
 ---
 
-I shrugged and
+Shrugged and
 
 ---
 
-Dug my toe
+Dug a toe
 
 ---
 
@@ -53,7 +54,7 @@ Slowly digging
 
 ---
 
-My own grave
+Their own grave
 
 ---
 
@@ -65,7 +66,7 @@ Bereft of nothing
 
 ---
 
-Read Safe
+Read Safe or save
 
 ---
 
@@ -109,7 +110,7 @@ Face licks the inside
 
 ---
 
-Of my thumb
+Of Loo's thumb
 
 ---
 
@@ -129,7 +130,15 @@ Transmission
 
 ---
 
-Beneath a parasol
+Feel saved
+
+---
+
+Beneath a
+
+---
+
+Decorative parasol
 
 ---
 
@@ -141,7 +150,7 @@ Ragged pink tissue
 
 ---
 
-Our romantic dream
+Their romantic dream
 
 ---
 
@@ -149,7 +158,7 @@ Of safety
 
 ---
 
-Couldn't sleep
+Held sleep away
 
 ---
 
@@ -157,7 +166,7 @@ Predicting ruin
 
 ---
 
-Whispered
+Whispering
 
 ---
 
@@ -166,6 +175,10 @@ Sweet nothings
 ---
 
 Up against the sheet
+
+---
+
+'Save me'
 
 ---
 
@@ -185,19 +198,23 @@ To lay across
 
 ---
 
-The hair on your arms
+The hair on their arms
 
 ---
 
-Reaching towards me
+End to end
 
 ---
 
-We're almost fucking
+So close
 
 ---
 
-Lost and safe
+They're almost fucking
+
+---
+
+Lost and safe, saved
 
 ---
 
@@ -217,7 +234,7 @@ What as who
 
 ---
 
-Recants I can't be
+Recants Loo can't be
 
 ---
 
@@ -237,7 +254,15 @@ Eyes downcast
 
 ---
 
-Playing with myself
+Playing with themselves
+
+---
+
+The story lost
+
+---
+
+In detail
 
 ---
 
@@ -262,6 +287,7 @@ To the surface
 ---
 
 Tease
+{: .indent1}
 
 ---
 
@@ -273,7 +299,7 @@ High on glaze
 
 ---
 
-First blush fading
+First blush saved
 
 ---
 
@@ -302,6 +328,7 @@ Excited skin
 ---
 
 Knife wife
+{: .indent1}
 
 ---
 
@@ -361,15 +388,23 @@ Dreams like
 
 ---
 
-Arcadia, really just
+Arcadia and waking
 
 ---
 
-The home
+In the mezzanine
 
 ---
 
-Of TopShop
+Of the Top
+
+---
+
+Shop
+
+---
+
+Safe or saved against
 
 ---
 
@@ -377,23 +412,23 @@ The smoothness
 
 ---
 
-Of mannequins
+Of mannequin flesh
 
 ---
 
-The most violent
+The most dangerous
 
 ---
 
-Thing you can do
+Thing Loo could do
 
 ---
 
-Is name it
+Is abstract it all
 
 ---
 
-A ceiling
+An atmosphere disrupted
 
 ---
 
@@ -409,7 +444,7 @@ Of meteorites
 
 ---
 
-Or fallen angels
+A legion of fallen angels
 
 ---
 
@@ -437,7 +472,11 @@ And troubled
 
 ---
 
-I learned to resuscitate
+Beneath a silent sky
+
+---
+
+Loo trained to resuscitate
 
 ---
 
@@ -449,7 +488,11 @@ A new doll each year
 
 ---
 
-Their hearts can't take
+Learned
+
+---
+
+Their heart can't take
 
 ---
 
@@ -461,7 +504,7 @@ Pressure
 
 ---
 
-I learned to reject
+Loo learned to reject
 
 ---
 
@@ -473,7 +516,7 @@ At the tips
 
 ---
 
-Of my fingers
+Of their fingers
 
 ---
 
@@ -481,7 +524,7 @@ Of my fingers
 
 ---
 
-The problematic
+This problematic
 
 ---
 
@@ -489,89 +532,104 @@ Pattern repeating
 
 ---
 
-*Not just fantasy*. I read Joon 's swooning objectivism, the story
-written out as milk stains on a white tee and dissociate. Take a walk
-and slip into my own pregnant reverie, in front of racks of faded band
-merch at Mercy Vintage. It gets me out of the house, fleshes out the
-imperfect goodwill I imagine. Garish and obscene. Glamorously
-threadbare. Almost miraculous.
+*Not just fantasy*.
 
 ---
 
-At minimum, I was Adam naming my way into some extreme measure of
-self-fixation, obsessed and obsessive rumination toward minding mine own
-business vs. minding our own pleasure, a private heaven or public hell
-expanding in exponential dimensions. Overwhelming obsession. The thought
-we writ large as a folding in not stretching toward. Sex that makes an
-ass of me. An emaciated face or ghost of personality draining toward the
-shaky drain 's point of no return. A limp corpse wrist arching up
-through grating. Pose becoming cramp becoming camp becoming something
-chronic, rhetorical. *We weren't praying for this.*
+Loo reads Joon 's swooning objectivism, the sensation written out as
+milk stains on a white tee. They dissociate. Take a walk and slip into
+their own pregnant reverie, in front of racks of faded band merch at
+Mercy Vintage. It gets them out of the house, fleshes out the imperfect
+goodwill they imagine. Garish and obscene. Glamorously threadbare.
+Almost miraculous.
 
 ---
 
-I conjure Aaron's rod that budded. Aaron's poem in *The Paradise of
-Forms*. *The dress likes the way he looks, hairy.* I wanted to have a
-manifesto to blow it up as so little made sense in a time when competing
-spiritual forces struggled to pull our feeble agreement apart. The ring
-that rolls out of reach no matter how much we stretch to grab at it.
-Sell the outerwear when the work dries up. Our stubborn multiplicity, an
-innate fuck you to a pervasive loneliness imposed as though every day we
-must get out into the world, face a grave, dead broke, east west,
-damning orientation. Yes. There were too many complications. I worried
-about the repetition of the movements, the choreography of my not yet
-our bodies on the page creating a rough line for measurement. I worried
-too about my height and weight, someone called it stature which left me
-cold. The pressing thought of physical necessity. No. An ever-increasing
-push towards order but this ran against our rangy opulence. We imagined
-the end of power as a chain of supplication cracked or dragged from
-around our neck. Link by link together the weakest collapsing.
+At minimum, Loo felt like a dizzy Adam naming their way into some
+extreme measure of self-fixation, obsessed and obsessive rumination
+toward minding their own business vs. minding their own pleasure, a
+private heaven or public hell expanding in exponential dimensions. At
+max, overwhelming obsession, squeezing everything into a horizon line.
+The thought Loo writ large as a folding in not stretching toward. Sex
+that makes an ass of them. An emaciated face or ghost of personality
+draining toward the shaky drain 's point of no return. A limp corpse
+wrist arching up through grating. Pose becoming cramp becoming camp
+becoming something chronic, rhetorical. *They weren't praying for this.*
 
 ---
 
-With a handful of brass rings, my or this hand a rams head, a claw, a
-ram in profile, a Cleopatra snake charm winding up to strike. Tiny glass
-eye. The pendulum of a snowflake pendant. Scattered indications of
-movement outwards. A fire sign, a fire floating above the watery
-sensation, the feeling, a lack inside the water and so we became an
-anthem in perpetual wonder of the distinction. Glamorous, the we that
-together made a choice, was given split-second choices to make. I wanted
-them or they, us in some mindless repetition. To be awed again. Language
-for what we didn't yet understand. Anyways, I didn't want to be
-confused. I wanted to sing.
+Loo conjures Aaron's rod that budded. Aaron's poem in *The Paradise of
+Forms*. *The dress likes the way he looks, hairy.* They wanted to have a
+manifesto to blow it up, as so little made sense in a time when
+competing spiritual forces struggled to pull any apart feeble agreement.
+The ring rolls out of reach no matter how much they stretch to grab at
+it. Sell the outerwear when the work dries up. Their stubborn
+multiplicity, an innate fuck you to a pervasive loneliness imposed as
+though every day they must get out into the world, face a grave, dead
+broke, east west, damning orientation. Yes. There were too many
+complications. Loo worried about the repetition of their movements, the
+choreography of their not yet communal body on the page creating a rough
+line for measurement. Loo worried too about their height and weight as
+well, someone called it 'stature' which left them cold as marble. As
+though the pressing thought of physical necessity left a lasting
+impression. No. An ever-increasing push towards order but this ran
+against their rangy opulence. Loo imagined the end of power as a chain
+of supplication cracked or dragged from around their neck. Link by link
+together the weakest collapsing.
+
+---
+
+With a handful of brass rings, their or this hand a rams head, a claw, a
+ram in profile, a Cleopatra snake charm winding up to strike any
+softness or warmth of flesh. A tiny glass eye. The pendulum of a
+snowflake pendant. Scattered indications of movement outwards. Each
+object of reference, a reliquary, a talisman, a psychic tool, A fire
+sign, a fire floating above the perpetual watery sensation, the feeling,
+a lack inside the water and so Loo became an anthem in perpetual wonder
+of the distinction. Glamorous, the we that together made a choice, was
+given split-second choices to make. Loo wanted a them or they, an us in
+some mindless repetition. To be awed again. Language for what they
+didn't yet understand. Anyways, Loo didn't want to be confused. They
+wanted to sing.
 
 ---
 
 *Punch a ghost...*
-{: .indent1}
-
-*A dress only becomes a dress by being worn.*
+{: .indent2}
 
 ---
 
-The specters of Anger's Puce moment. Obscene luxury just danced off the
-rack. A sheet a shift a skirt a ghost, styles of unfolding in the
-machinery of yr vision.
+*A dress only becomes a dress by being worn*
 
 ---
 
-Belief is what we fall into from the periphery. The shadow of a god
-insisting the writing is the wall the body is sketched as an outline on
-the floor. The heft of paper chains, this history of royalty. Neither
-nor. We believed naively that fire would burn it all away and beneath
-would be a glowing residue of wholeness. An unbroken circle beneath the
-church. Inside curves and smooth wet. We feel felt this as something
-approaching completion, tearing each layer away. This less specific and
-quiet insistence of a sensual momentum forward made it even moreso. I
-watched it all watching Legion a show of superpowers where the superhero
-is mentally unwell. Is multiple, the world is unwell in its insistence
-on those without power. The hero 's crush moves through touch her spirit
-kissing her or him as they switch bodies. They remaking what it means to
-inhabit a world to slosh against the viscera. Dumb and newly born. On
-the floor of Wolfman Books during the reading I listen to our friend
-transforming into pure description at the same time not listening I pull
-off the gel polish from my middle finger complete in one piece and stick
-it behind the poetry, saving for it later.
+Or the specters of Anger 's puce moment, obscene luxury just danced off
+the rack. Loo counts: A sheet a shift a skirt a ghost, styles of
+unfolding in the machinery of their vision.
+
+---
+
+Belief is what Loo falls into from the periphery. The shadow of a god
+insisting the writing is the wall the body is an outline on the floor.
+The slight heft of paper chains or this history of royalty. Neither nor.
+Loo believed naively that passionate fire would materialize to burn it
+all away and beneath would be a glowing residue of wholeness. An
+unbroken circle beneath the church. Inside curves and smooth wet. They
+felt this as something approaching completion, tearing each layer away.
+This less specific and quiet insistence of a sensual momentum forward
+made it even moreso. Loo watched it all through a specific lens,
+watching Legion, a show of superpowers where the hero is labeled
+mentally unwell -- is sick with a multiplicity -- in a world unwell in
+its insistence on those without these specific queer powers, filled with
+synthetic cloth and mid-centeery modern furnishings. The hero 's
+obsession moves throughout the scene, touching each stupefied spirit,
+kissing her or him as they switch bodies. They, remaking what it means
+to inhabit such a world, to slosh against the viscera. Dumb and newly
+born. On the floor of Wolfman Books during the reading Loo listens to
+their friend transforming into pure description at the same time not
+listening they pull off the gel polish from their middle finger complete
+in one piece and stick it behind the shelf of poetry, saving it to
+chance upon later.
 
 ---
 
@@ -579,12 +637,12 @@ it behind the poetry, saving for it later.
 
 ---
 
-Eyes soaked in milk, shapes floated through taste. A holographic makeup
-stick marks the limits of our field of vision. Cheeks blushed. Smudged
-with a shade called supernova for an understanding of what we thought we
-saw before the lights went out. Believing the flash was enough to make a
-distinction. No. Not totally. Not in fact at all. But a vagueness.
-Awesome, overwhelming ambiguity. Yes.
+Eyes soaked in milk, shapes buoyed through taste. A holographic makeup
+stick marks the limits of Loo's field of vision. Cheeks blushed.
+Streaked with a shade called supernova for an understanding of what they
+thought they saw before the lights went out. Believing the flash was
+enough to make a distinction. No. Not totally. Not in fact at all. But a
+vagueness. Awesome, overwhelming ambiguity. Yes.
 
 ---
 
@@ -688,7 +746,7 @@ In the sunroom
 
 ---
 
-I read the feeling as
+Loo reads the feeling as
 
 ---
 
@@ -752,7 +810,7 @@ Blasting Dumb Blonde
 
 ---
 
-Dolly's New Narrative
+Dolly 's New Narrative
 
 ---
 
@@ -765,34 +823,34 @@ Transforming a scarf
 ---
 
 Into a noose
-{: .indent2}
+{: .indent1}
 
 ---
 
 Into a guillotine
-{: .indent2}
+{: .indent1}
 
 ---
 
 An open hand
-{: .indent2}
+{: .indent1}
 
 ---
 
 An ashtray
-{: .indent2}
+{: .indent1}
 
 ---
 
-As Frank once commented
+As Frank once admitted
 
 ---
 
-I miss my sisters
+Loo misses their sisters
 
 ---
 
-I read a treatise on stars
+And reads a treatise on stars
 
 ---
 
@@ -805,12 +863,12 @@ Reverie and warning
 ---
 
 *Don't be mislead*
-{: .indent1}
+{: .indent2}
 
 ---
 
 *By glamor from heaven*
-{: .indent1}
+{: .indent2}
 
 ---
 
@@ -826,7 +884,7 @@ In the wind
 
 ---
 
-When we finally laid out
+When Loo finally laid out
 
 ---
 
@@ -847,24 +905,24 @@ Brenda wrote
 ---
 
 *Satan isn't sitting*
-{: .indent1}
+{: .indent2}
 
 ---
 
 *In some bunker*
-{: .indent1}
+{: .indent2}
 
 ---
 
 And
 
 *fuck that*
-{: .indent1 .nolinebreak}
+{: .indent2 .nolinebreak}
 
 ---
 
 *In wet hot turquoise*
-{: .indent1}
+{: .indent2}
 
 ---
 
