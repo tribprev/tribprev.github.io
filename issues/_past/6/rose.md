@@ -1,6 +1,7 @@
 ---
 contributor: maya rose
 title: two poems
+issue: 'Feast of St. Fabiola'
 ---
 
 <style>

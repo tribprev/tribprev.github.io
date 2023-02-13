@@ -1,6 +1,7 @@
 ---
 title: four poems
 contributor: Maria Sledmere
+issue: 'Feast of St. Fabiola'
 ---
 
 ## Cervidae

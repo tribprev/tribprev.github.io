@@ -1,6 +1,7 @@
 ---
 contributor: Anja Notanja Sieger
 title: seven poems
+issue: 'Feast of St. Fabiola'
 ---
 
 ![Sieger 1](/assets/images/sieger-01.jpg)

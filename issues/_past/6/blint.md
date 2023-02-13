@@ -1,6 +1,7 @@
 ---
 title: six poems
 contributor: Stacy Blint
+issue: 'Feast of St. Fabiola'
 ---
 
 ## Involuous

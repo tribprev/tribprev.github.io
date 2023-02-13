@@ -1,6 +1,7 @@
 ---
 title: '"A Normal Party and the Day that Follows"'
 contributor: Elena Gomez
+issue: 'Feast of St. Fabiola'
 ---
 
 <style>

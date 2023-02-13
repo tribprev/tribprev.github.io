@@ -1,6 +1,7 @@
 ---
 title: '"Some Measurements"'
 contributor: Josef Kaplan
+issue: 'Feast of St. Fabiola'
 ---
 
 Four feet.

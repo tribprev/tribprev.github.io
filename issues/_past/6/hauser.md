@@ -1,6 +1,7 @@
 ---
 title: four poems
 contributor: Mike Hauser
+issue: 'Feast of St. Fabiola'
 ---
 
 ## What With

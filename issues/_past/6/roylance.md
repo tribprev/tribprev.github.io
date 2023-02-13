@@ -1,6 +1,7 @@
 ---
 title: 'two from *AQ Saga: Neuro-Piratical Self Help in Pocket Universe 17!*'
 contributor: Ben Roylance
+issue: 'Feast of St. Fabiola'
 ---
 
 **RECAP**:
